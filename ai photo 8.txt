@@ -1,0 +1,35 @@
+{
+  "prompt_type": "detailed_image_generation",
+  "main_subject": {
+    "description": "A beautiful young woman cosplaying as Lara Croft from Tomb Raider, fair skin with subtle tan, long straight dark brown hair with full blunt bangs framing face, sharp features, bold red lipstick, sultry confident expression with slight pout and direct gaze at camera",
+    "body_type": "athletic hourglass figure, toned abs and legs, flat stomach with visible navel piercing, feminine curves",
+    "tattoos": "detailed black ink rose tattoo on lower abdomen centered above waistband, smaller tattoo on upper left thigh"
+  },
+  "pose_and_composition": {
+    "pose": "standing confidently facing camera, legs slightly apart with weight shifted to one side, both hands gripping and pulling down waistband of shorts to reveal lower abdomen and hip bones, shoulders back with slight arch in torso, teasing and empowered stance",
+    "framing": "medium full-body shot from mid-thigh up, vertical portrait orientation, subject centered with dynamic hip tilt"
+  },
+  "clothing_and_details": {
+    "top": "light blue cropped tank top with low scoop neckline, slightly distressed/worn fabric texture, tucked under black tactical harness",
+    "harness": "black leather tactical chest harness with multiple straps, metal D-rings, and central front buckle closure, worn over tank top",
+    "bottom": "low-rise brown cargo-style micro shorts with wide black utility belt featuring large buckle, black thigh holsters with adjustable straps and dangling ends",
+    "accessories": "gold navel piercing, long black glossy manicured nails",
+    "overall_outfit": "iconic classic Lara Croft Tomb Raider cosplay with modern sexy twist, tactical and adventurous aesthetic"
+  },
+  "setting_and_background": {
+    "background": "simple indoor modern room with light gray walls, white paneled door slightly ajar, small clear acrylic side table on left holding two ornate gold candlesticks with white candles, dark hardwood floor with visible power cord",
+    "props": "gold decorative candlesticks on table, subtle electrical outlet on wall",
+    "environment": "minimalist contemporary indoor setting, clean and neutral atmosphere"
+  },
+  "lighting_and_style": {
+    "lighting": "soft even indoor lighting, possibly natural window light off-frame, gentle highlights on skin and hair, minimal shadows for clean high-fashion look",
+    "photography_style": "professional cosplay glamour photography, high resolution, sharp focus on outfit details and tattoos, realistic textures on leather and fabric, confident and seductive mood",
+    "color_palette": "neutral grays and whites with pops of light blue top, black harness, brown shorts, warm skin tones"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "2:3 vertical portrait",
+    "quality_tags": "highly detailed, photorealistic, masterpiece, 8k, sharp focus, intricate harness straps and buckle details, realistic skin and tattoo textures, tactical cosplay accuracy",
+    "negative_prompt_suggestions": "blurry, deformed, extra limbs, low quality, artifacts, overexposed, harsh lighting, watermark, cartoon, anime"
+  },
+  "combined_positive_prompt": "full-body cosplay portrait of a beautiful young woman as classic Lara Croft, wearing light blue cropped tank top under black tactical harness, low-rise brown shorts with wide belt and thigh holsters, rose tattoos on abdomen and thigh, confident pose pulling down shorts, indoor minimalist room with gray walls and gold candlesticks, soft even lighting, high fashion photography, highly detailed, photorealistic, teasing and empowered mood, masterpiece"
+}
